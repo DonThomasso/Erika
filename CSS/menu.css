@@ -1,0 +1,23 @@
+.bar{
+    display: flex;
+}
+
+.xcoords{
+    min-width: 10px;
+    max-width: 120px;
+    margin-left: 5px;
+    
+}
+
+.ycoords{
+    min-width: 10px;
+    max-width: 120px;
+    margin-left: 5px;
+}
+
+.zcoords{
+    min-width: 10px;
+    max-width: 120px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
