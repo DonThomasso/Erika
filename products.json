@@ -1,0 +1,394 @@
+[
+    {
+        "icon":"house.png",
+        "name":"Base",
+        "dimension":"Overworld",
+        "x":171,
+        "y":64,
+        "z":-45
+    },
+    {
+        "icon":"zombie.png",
+        "name":"Zombie spawner 1",
+        "dimension":"Overworld",
+        "x":-187,
+        "y":-11,
+        "z":-372
+    },
+    {
+        "icon":"spider.png",
+        "name":"Spider spawner 1",
+        "dimension":"Overworld",
+        "x":73,
+        "y":2,
+        "z":102
+    },
+    {
+        "icon":"house.png",
+        "name":"Nether portal base",
+        "dimension":"Nether",
+        "x":21,
+        "y":74,
+        "z":-16
+    },
+    {
+        "icon":"water_temple.png",
+        "name":"Water temple 1",
+        "dimension":"Overworld",
+        "x":250,
+        "y":64,
+        "z":-350
+    },
+    {
+        "icon":"water_temple.png",
+        "name":"Water temple 2",
+        "dimension":"Overworld",
+        "x":250,
+        "y":64,
+        "z":-750
+    },
+    {
+        "icon":"water_temple.png",
+        "name":"Water temple 3",
+        "dimension":"Overworld",
+        "x":1000,
+        "y":64,
+        "z":-400
+    },
+    {
+        "icon":"water_temple.png",
+        "name":"Water temple 4",
+        "dimension":"Overworld",
+        "x":600,
+        "y":64,
+        "z":-250
+    },
+    {
+        "icon":"iglo.png",
+        "name":"Iglo",
+        "dimension":"Overworld",
+        "x":1700,
+        "y":70,
+        "z":350
+    },
+    {
+        "icon":"skeleton.png",
+        "name":"Skeleton spawner 1",
+        "dimension":"Overworld",
+        "x":202,
+        "y":-27,
+        "z":168
+    },
+    {
+        "icon":"village.png",
+        "name":"Village 1",
+        "dimension":"Overworld",
+        "x":1700,
+        "y":70,
+        "z":350
+    },
+    {
+        "icon":"village.png",
+        "name":"Village 2",
+        "dimension":"Overworld",
+        "x":900,
+        "y":70,
+        "z":80
+    },
+    {
+        "icon":"zombie.png",
+        "name":"Zombie spawner 2",
+        "dimension":"Overworld",
+        "x":204,
+        "y":-51,
+        "z":447
+    },
+    {
+        "icon":"village.png",
+        "name":"Village 3",
+        "dimension":"Overworld",
+        "x":-250,
+        "y":70,
+        "z":920
+    },
+    {
+        "icon":"house.png",
+        "name":"Base Youri",
+        "dimension":"Overworld",
+        "x":95,
+        "y":70,
+        "z":750
+    },
+    {
+        "icon":"savannah.png",
+        "name":"Savannah",
+        "dimension":"Overworld",
+        "x":-261,
+        "y":104,
+        "z":2471
+    },
+    {
+        "icon":"blaze.png",
+        "name":"Blaze Spawner 1",
+        "dimension":"Nether",
+        "x":958,
+        "y":56,
+        "z":881
+    },
+    {
+        "icon":"fortress.png",
+        "name":"Nether fortress 1",
+        "dimension":"Nether",
+        "x":1700,
+        "y":70,
+        "z":350
+    },
+    {
+        "icon":"fortress.png",
+        "name":"Nether fortress 2",
+        "dimension":"Nether",
+        "x":475,
+        "y":95,
+        "z":485
+    },
+    {
+        "icon":"mansion.png",
+        "name":"Woodland mansion nether portal",
+        "dimension":"Nether",
+        "x":218,
+        "y":60,
+        "z":260
+    },
+    {
+        "icon":"wood_badlands.png",
+        "name":"Wooded badlands",
+        "dimension":"Overworld",
+        "x":632,
+        "y":113,
+        "z":-3196
+    },
+    {
+        "icon":"mineshaft.png",
+        "name":"Mineshaft 1",
+        "dimension":"Overworld",
+        "x":576,
+        "y":78,
+        "z":-3269
+    },
+    {
+        "icon":"swamp.png",
+        "name":"Swamp",
+        "dimension":"Overworld",
+        "x":-149,
+        "y":98,
+        "z":-4800
+    },
+    {
+        "icon":"swamp.png",
+        "name":"Swamp + floating islands",
+        "dimension":"Overworld",
+        "x":-1420,
+        "y":67,
+        "z":-15
+    },
+    {
+        "icon":"stronghold.png",
+        "name":"End portal entrance",
+        "dimension":"Overworld",
+        "x":-1719,
+        "y":68,
+        "z":143
+    },
+    {
+        "icon":"mesa.png",
+        "name":"Mesa",
+        "dimension":"Overworld",
+        "x":1352,
+        "y":120,
+        "z":-2763
+    },
+    {
+        "icon":"mesa.png",
+        "name":"Mesa nether portal",
+        "dimension":"Nether",
+        "x":153,
+        "y":115,
+        "z":-337
+    },
+    {
+        "icon":"village.png",
+        "name":"Village 5",
+        "dimension":"Overworld",
+        "x":1340,
+        "y":60,
+        "z":-2170
+    },
+    {
+        "icon":"village.png",
+        "name":"Village 5 nether portal",
+        "dimension":"Nether",
+        "x":170,
+        "y":80,
+        "z":-270
+    },
+    {
+        "icon":"raid_tower.png",
+        "name":"Raid tower 1",
+        "dimension":"Overworld",
+        "x":780,
+        "y":77,
+        "z":-3175
+    },
+    {
+        "icon":"raid_tower.png",
+        "name":"Raid tower 1 nether portal",
+        "dimension":"Nether",
+        "x":106,
+        "y":59,
+        "z":-395
+    },
+    {
+        "icon":"raid_tower.png",
+        "name":"Raid tower 2",
+        "dimension":"Overworld",
+        "x":-1175,
+        "y":69,
+        "z":1050
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 1",
+        "dimension":"End",
+        "x":-962,
+        "y":69,
+        "z":1050
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 2",
+        "dimension":"End",
+        "x":-1049,
+        "y":64,
+        "z":-1428
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 3",
+        "dimension":"End",
+        "x":-458,
+        "y":62,
+        "z":-2179
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 4",
+        "dimension":"End",
+        "x":-1214,
+        "y":61,
+        "z":-2364
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 5 + end city",
+        "dimension":"End",
+        "x":-2315,
+        "y":60,
+        "z":-2567
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 6",
+        "dimension":"End",
+        "x":625,
+        "y":62,
+        "z":-3081
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 7",
+        "dimension":"End",
+        "x":-2979,
+        "y":58,
+        "z":-2600
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 8",
+        "dimension":"End",
+        "x":3141,
+        "y":57,
+        "z":-3126
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 9",
+        "dimension":"End",
+        "x":2140,
+        "y":61,
+        "z":-2791
+    },
+    {
+        "icon":"gateway.png",
+        "name":"End gateway 10",
+        "dimension":"End",
+        "x":2663,
+        "y":62,
+        "z":-6740
+    },
+    {
+        "icon":"end_city.png",
+        "name":"End city 1 (uncleared)",
+        "dimension":"End",
+        "x":3340,
+        "y":142,
+        "z":-4791
+    },
+    {
+        "icon":"end_city.png",
+        "name":"Double End city 2(uncleared)",
+        "dimension":"End",
+        "x":-1550,
+        "y":70,
+        "z":1685
+    },
+    {
+        "icon":"end_city.png",
+        "name":"End city 3 (uncleared)",
+        "dimension":"End",
+        "x":4295,
+        "y":66,
+        "z":-6740
+    },
+    {
+        "icon":"raid_tower.png",
+        "name":"Raid tower 3 + village",
+        "dimension":"Overworld",
+        "x":-2747,
+        "y":77,
+        "z":1224
+    },
+    {
+        "icon":"village.png",
+        "name":"Village 6 + 7 + 8",
+        "dimension":"Overworld",
+        "x":-3293,
+        "y":73,
+        "z":-2627
+    },
+    {
+        "icon":"jagged_peaks.png",
+        "name":"Jagged peaks",
+        "dimension":"Overworld",
+        "x":-1308,
+        "y":135,
+        "z":1500
+    },
+    {
+        "icon":"frozen_peaks.png",
+        "name":"Frozen peaks",
+        "dimension":"Overworld",
+        "x":-1650,
+        "y":144,
+        "z":1500
+    }
+]

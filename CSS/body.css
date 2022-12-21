@@ -10,6 +10,7 @@
     display: grid;
     border-color: black;
     border-width: 2px
+
 }
 
 .visuals{
@@ -18,3 +19,14 @@
     border-color: black;
     border-width: 2px
 }
+
+
+
+
+.table{
+    font-family:system-ui;
+}
+
+tr:nth-child(even) {
+    background-color: #e2dfdf;
+  }
