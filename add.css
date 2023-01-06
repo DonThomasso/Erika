@@ -1,0 +1,32 @@
+.form{
+    border-color: black;
+    border-width: 12px;
+    border-width: 2px;
+    border-style: solid;
+    text-align:center;
+  }
+  
+  .dimensions {
+    color: red;
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+  }
+  
+  .dimension-selector {
+    color: blue;
+    display: flex;
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+  }
+  
+  .entries {
+    color: blue;
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+  }
+  
+  
+  

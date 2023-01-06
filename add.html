@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="add.css">
+  </head>
+  
+  <h1>
+  Add your coordinates:
+  </h1>
+  
+  <form name="form" class="form">
+    
+    <div class="dimensions">
+      <div class="dimension-selector">
+        <input type="radio" id="overworld" name="dimension" value="overworld" checked>
+        <label for="overworld">Overworld</label>
+  
+        <input type="radio" id="nether" name="dimension" value="nether">
+        <label for="nether">Nether</label>
+      
+        <input type="radio" id="end" name="dimension" value="end">
+        <label for="end">The End</label>
+      </div>
+    
+    </div>
+    
+    <div class="entries">
+      <label>Name:</label>
+      <input type="text" onKeyup="checkform()" />
+      <br>
+      <label>X</label>
+      <input type="number" onKeyup="checkform()" />
+      <br>
+      <label>Y</label>
+      <input type="number" onKeyup="checkform()" />
+      <br>
+      <label>Z</label>
+      <input type="number" onKeyup="checkform()" />
+      <br>
+      <input id="submitbutton" type="submit" disabled="disabled" value="Submit" />
+    </div>
+  
+  </form>
+  <script src="add.js"></script>
+</html>
